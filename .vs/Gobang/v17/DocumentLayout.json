@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meimei\\Desktop\\Gobang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D760BB60-76F7-9E43-12F7-E82EDBB121C7}|Assembly-CSharp.csproj|c:\\users\\meimei\\desktop\\gobang\\assets\\scripts\\aichess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D760BB60-76F7-9E43-12F7-E82EDBB121C7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\aichess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D760BB60-76F7-9E43-12F7-E82EDBB121C7}|Assembly-CSharp.csproj|c:\\users\\meimei\\desktop\\gobang\\assets\\scripts\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D760BB60-76F7-9E43-12F7-E82EDBB121C7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIChess.cs",
+              "DocumentMoniker": "C:\\Users\\meimei\\Desktop\\Gobang\\Assets\\Scripts\\AIChess.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AIChess.cs",
+              "ToolTip": "C:\\Users\\meimei\\Desktop\\Gobang\\Assets\\Scripts\\AIChess.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AIChess.cs",
+              "ViewState": "AQIAAHICAAAAAAAAAAAAAH4CAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:49:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\meimei\\Desktop\\Gobang\\Assets\\Scripts\\Config.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Config.cs",
+              "ToolTip": "C:\\Users\\meimei\\Desktop\\Gobang\\Assets\\Scripts\\Config.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Config.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwJ4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:45:55.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
